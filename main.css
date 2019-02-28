@@ -12,12 +12,28 @@
     border-radius: 50%;
     height: 200px;
     width: 200px;
-    align-self: center; 
+    align-self: center;
+    border: 5px; 
+    box-shadow: 5px 5px grey;
     
+}
+.text-content{
+    text-align: center;
+    padding: 50px;
+    color: black;
+    opacity: 50;
+    font-family: source sans-serif;
+    text-shadow: 1px yellow;
 }
 .content{
     margin: 10px;
 }
 body{
-    background-color: rgb(239, 175, 245);
+    background-color:yellow;
+}
+.list-inline{
+    align-self: center;
+    padding: 50px;
+    color: yellow;
+
 }
